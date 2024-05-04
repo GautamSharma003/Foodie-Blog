@@ -1,7 +1,7 @@
 ## Foodieblog
 # MICRPOSOFT_FUTURE READY TALENT INTERNSHIP
 
-Website link : https://zealous-plant-03dc57f10.4.azurestaticapps.net/
+Website link : https://purple-dune-0787f5810.5.azurestaticapps.net
 
 Deployed form Github Link : https://github.com/GautamSharma003/Foodie-Blog.git
 
